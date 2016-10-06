@@ -209,8 +209,8 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [x] **How computers process a program:**
-    - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
+- [] **How computers process a program:**
+    - [] https://www.youtube.com/watch?v=42KTvGYQYnA
     - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
 - [x] **How floating point numbers are stored:**
