@@ -256,15 +256,15 @@ You'll see some C, C++, and Python learning included below, because I'm learning
     - [x] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
     - [x] Statistics for Hackers: https://www.youtube.com/watch?v=Iq9DzN6mvYA
     - [x] Faster Python: https://www.youtube.com/watch?v=JDSGVvMwNM8
-    - [x] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
-    - [x] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
-    - [x] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
+    - [ ] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
+    - [ ] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
+    - [ ] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
 
-- [x] **Compilers**
-    - [x] https://class.coursera.org/compilers-004/lecture/1
-    - [x] https://class.coursera.org/compilers-004/lecture/2
-    - [x] C++: https://www.youtube.com/watch?v=twodd1KFfGk
-    - [x] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
+- [ ] **Compilers**
+    - [ ] https://class.coursera.org/compilers-004/lecture/1
+    - [ ] https://class.coursera.org/compilers-004/lecture/2
+    - [ ] C++: https://www.youtube.com/watch?v=twodd1KFfGk
+    - [ ] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
 
 ## The Daily Plan
 
